@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/291842689456491785/ce0d36f5f0be48bc9e208cbb021f14b0/artifacts
+end_time: 1670114395738
+entry_point_name: ''
+experiment_id: '291842689456491785'
+lifecycle_stage: active
+run_id: ce0d36f5f0be48bc9e208cbb021f14b0
+run_name: Score
+run_uuid: ce0d36f5f0be48bc9e208cbb021f14b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670114395696
+status: 3
+tags: []
+user_id: root
