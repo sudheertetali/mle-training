@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/712792505792920282/cdeb2b8e9d724e4dba2809091bed1e75/artifacts
+end_time: 1674311483117
+entry_point_name: ''
+experiment_id: '712792505792920282'
+lifecycle_stage: active
+run_id: cdeb2b8e9d724e4dba2809091bed1e75
+run_name: Train
+run_uuid: cdeb2b8e9d724e4dba2809091bed1e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674311461891
+status: 3
+tags: []
+user_id: root

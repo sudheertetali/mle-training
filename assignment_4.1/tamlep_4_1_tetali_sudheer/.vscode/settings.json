@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/sudheer/anaconda3/envs/mle-dev/bin/python3.10",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.sortMembers": true
+    },
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+        "--ignore=F4,F8,E4,E5,E8",
+    ],
+}

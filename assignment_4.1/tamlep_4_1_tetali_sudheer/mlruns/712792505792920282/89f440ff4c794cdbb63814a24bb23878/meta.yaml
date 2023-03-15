@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/712792505792920282/89f440ff4c794cdbb63814a24bb23878/artifacts
+end_time: 1678206371344
+entry_point_name: ''
+experiment_id: '712792505792920282'
+lifecycle_stage: active
+run_id: 89f440ff4c794cdbb63814a24bb23878
+run_name: Ingest Data
+run_uuid: 89f440ff4c794cdbb63814a24bb23878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678206371278
+status: 3
+tags: []
+user_id: root
