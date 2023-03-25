@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sudheer/mle-training/assignment_4.2/assign_sudheer/mlruns/0/b4db5bbf995c4e508df17942e15030c4/artifacts
+end_time: 1679381768568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4db5bbf995c4e508df17942e15030c4
+run_name: wistful-mole-448
+run_uuid: b4db5bbf995c4e508df17942e15030c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679381705572
+status: 4
+tags: []
+user_id: root
